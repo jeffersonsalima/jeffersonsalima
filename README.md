@@ -1,16 +1,28 @@
-## Hi there 👋
+## E aí, padawan? 🤖⚡
 
-<!--
-**jeffersonsalima/jeffersonsalima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🛡️ Trabalho com **GRC (Governança, Risco e Compliance)** e **Inteligência Artificial**
+- 🤖 Foco em levar segurança e conformidade para o mundo da IA — governança de IA, gestão de riscos e políticas de compliance aplicadas a sistemas inteligentes
+- 📚 Gosto de compartilhar conhecimento e ajudar outras pessoas a entrarem nesse universo
+- 🔧 Áreas de interesse: GRC, AI Governance, Segurança da Informação, Compliance
 
-Here are some ideas to get you started:
+### 🌐 Onde me encontrar
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <a href="https://www.linkedin.com/in/jeffersonlnkdn" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+  <a href="https://jeffersonsalima.medium.com/" target="_blank">
+    <img src="https://img.shields.io/badge/-Medium-lightgrey?style=for-the-badge&logo=medium&logoColor=white" target="_blank">
+  </a>
+</div>
+
+#
+
+Até mais! 👋
+
+<div id="div-1">
+  <a href="https://github.com/SEU-USUARIO-GITHUB">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO-GITHUB&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO-GITHUB&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
+</div>
