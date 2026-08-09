@@ -7,13 +7,13 @@
 ### 🧰 Ferramentas & Stack
 
 <div style="display: inline_block">
-  <img align="center" alt="Zanshin" height="30" src="https://img.shields.io/badge/-Zanshin-6A0DAD?style=for-the-badge&logoColor=white">
-  <img align="center" alt="Zabbix" height="30" src="https://img.shields.io/badge/-Zabbix-CC0000?style=for-the-badge&logo=zabbix&logoColor=white">
-  <img align="center" alt="CrowdStrike" height="30" src="https://img.shields.io/badge/-CrowdStrike-E01B24?style=for-the-badge&logo=crowdstrike&logoColor=white">
-  <img align="center" alt="ArcSight SIEM" height="30" src="https://img.shields.io/badge/-ArcSight%20SIEM-1A73E8?style=for-the-badge">
-  <img align="center" alt="Netskope" height="30" src="https://img.shields.io/badge/-Netskope-00BCEB?style=for-the-badge">
   <img align="center" alt="Azure AD" height="30" src="https://img.shields.io/badge/-Azure%20AD-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white">
+  <img align="center" alt="ArcSight SIEM" height="30" src="https://img.shields.io/badge/-ArcSight%20SIEM-1A73E8?style=for-the-badge">
+  <img align="center" alt="CrowdStrike" height="30" src="https://img.shields.io/badge/-CrowdStrike-E01B24?style=for-the-badge&logo=crowdstrike&logoColor=white">
+  <img align="center" alt="Netskope" height="30" src="https://img.shields.io/badge/-Netskope-00BCEB?style=for-the-badge">
   <img align="center" alt="Power Automate" height="30" src="https://img.shields.io/badge/-Power%20Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white">
+  <img align="center" alt="Zabbix" height="30" src="https://img.shields.io/badge/-Zabbix-CC0000?style=for-the-badge&logo=zabbix&logoColor=white">
+  <img align="center" alt="Zanshin" height="30" src="https://img.shields.io/badge/-Zanshin-6A0DAD?style=for-the-badge&logoColor=white">
 </div>
 
 ### 🏆 Certificações
