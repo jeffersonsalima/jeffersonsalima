@@ -7,7 +7,6 @@
 ### 🧰 Ferramentas & Stack
 
 <div style="display: inline_block">
-  <img align="center" alt="CyberArk" height="30" src="https://img.shields.io/badge/-CyberArk-0057B8?style=for-the-badge&logoColor=white">
   <img align="center" alt="CrowdStrike" height="30" src="https://img.shields.io/badge/-CrowdStrike-E01B24?style=for-the-badge&logo=crowdstrike&logoColor=white">
   <img align="center" alt="ArcSight SIEM" height="30" src="https://img.shields.io/badge/-ArcSight%20SIEM-1A73E8?style=for-the-badge">
   <img align="center" alt="Netskope" height="30" src="https://img.shields.io/badge/-Netskope-00BCEB?style=for-the-badge">
